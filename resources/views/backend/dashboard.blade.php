@@ -23,7 +23,7 @@
             <div class="card-body">
                 <span class="dash-widget-icon"><i class="fa fa-cubes"></i></span>
                 <div class="dash-widget-info">
-                    <h3>112</h3>
+                    <h3>0</h3>
                     <span>Projects</span>
                 </div>
             </div>
@@ -45,7 +45,7 @@
             <div class="card-body">
                 <span class="dash-widget-icon"><i class="fa fa-diamond"></i></span>
                 <div class="dash-widget-info">
-                    <h3>37</h3>
+                    <h3>0</h3>
                     <span>Tasks</span>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                     <p class="mb-0">Overall Employees 218</p>
                 </div>
             </div>
-        
+
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between mb-3">
@@ -125,7 +125,7 @@
                     <p class="mb-0">Previous Month <span class="text-muted">$1,15,852</span></p>
                 </div>
             </div>
-        
+
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between mb-3">
@@ -143,7 +143,7 @@
                     <p class="mb-0">Previous Month <span class="text-muted">$7,500</span></p>
                 </div>
             </div>
-        
+
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between mb-3">
@@ -162,7 +162,7 @@
                 </div>
             </div>
         </div>
-    </div>	
+    </div>
 </div>
 
 <!-- Statistics Widget -->
@@ -206,7 +206,7 @@
             </div>
         </div>
     </div>
-    
+
     <div class="col-md-12 col-lg-6 col-xl-4 d-flex">
         <div class="card flex-fill">
             <div class="card-body">
@@ -244,7 +244,7 @@
             </div>
         </div>
     </div>
-    
+
     <div class="col-md-12 col-lg-6 col-xl-4 d-flex">
         <div class="card flex-fill">
             <div class="card-body">
